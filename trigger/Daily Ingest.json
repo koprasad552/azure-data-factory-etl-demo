@@ -16,8 +16,8 @@
 			"recurrence": {
 				"frequency": "Day",
 				"interval": 1,
-				"startTime": "2021-11-01T13:00:00",
-				"endTime": "2021-11-02T10:14:00",
+				"startTime": "2022-10-10T13:00:00",
+				"endTime": "2023-11-02T10:14:00",
 				"timeZone": "W. Europe Standard Time",
 				"schedule": {
 					"minutes": [
