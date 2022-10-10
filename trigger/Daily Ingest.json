@@ -18,7 +18,7 @@
 				"interval": 1,
 				"startTime": "2022-10-10T13:00:00",
 				"endTime": "2023-11-02T10:14:00",
-				"timeZone": "W. Europe Standard Time",
+				"timeZone": "Indian Standard Time",
 				"schedule": {
 					"minutes": [
 						45
